@@ -6,6 +6,6 @@
 
 1. Esse projeto vai ter uma tela de publicação
 2. vai ter o historico no feed
-3. vai ter links de incentivo solidarios(doações, contribuição, cursos direcioados para sites educativos)
+3. vai ter links de incentivo solidarios(doações, contribuição, cursos direcionados para sites educativos)
 
 ---
